@@ -521,4 +521,5 @@ Raft 的强领导人模型简化了整个算法，但是同时也排斥了一些
 
 ## 参考
 
-略
+- [https://raft.github.io/raft.pdf](https://raft.github.io/raft.pdf)
+- [https://raft.github.io/](https://raft.github.io/)
